@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 5%;
+}
+
+.name {
+margin-bottom: 10px;
+}
+
+.address
+{
+    margin-bottom: 10px;
+}
+
+
+
+.heading, .name {
+    color: rgb(7, 156, 242);
+    font-size: 26px;
+
+}
+
+div {
+    margin-bottom: 5vh;
+}
+
+hr {
+    margin-bottom: 20px;
+}
+
+
+.content {
+    padding-left: 7%;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-top: 5px;
+    line-height: 150%;
+}
+
+strong {
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-bottom: 10px;
+}
+
+ul {
+    margin-bottom: 20px;
+}
+
+/* .projects li {
+    list-style: none;
+} */
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+
+.links img {
+    width: 50px;
+}
